@@ -1,0 +1,19 @@
+{
+  "animals": [
+    {
+      "number": 1,
+      "name": "Mars",
+      "age": 5
+    },
+    {
+      "number": 2,
+      "name": "Kassandra",
+      "age": 13
+    },
+    {
+      "number": 3,
+      "name": "Biskvit",
+      "age": 4
+    }
+  ]
+}
